@@ -24,5 +24,5 @@ UniRentFinder is a comprehensive platform tailored for university/college studen
 ## Getting Started
 
 To set up and run this project locally, please clone this repo to your computer and run "npm build", "npm start"(check package.json file in root dir) in the repository.
-Continue developing: start client and api separatly. 
+Continue developing: start client and api dev server separatly，then open React dev server URL.
 
