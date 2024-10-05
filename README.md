@@ -21,6 +21,10 @@ UniRentFinder is a comprehensive platform tailored for university/college studen
 - **Database**: MongoDB
 - **Authentication**: JWT, Firebase, Google OAuth
 
+### Walkthrough
+![walkthrough](https://github.com/user-attachments/assets/998e5e0e-3c4e-4f87-9b13-bb2a03d4f46a)
+
+
 ## Getting Started
 
 To set up and run this project locally, please clone this repo to your computer and run "npm build", "npm start"(check package.json file in root dir) in the repository.
