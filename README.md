@@ -22,7 +22,7 @@ UniRentFinder is a comprehensive platform tailored for university/college studen
 - **Authentication**: JWT, Firebase, Google OAuth
 
 ### Walkthrough
-![walkthrough](https://github.com/user-attachments/assets/998e5e0e-3c4e-4f87-9b13-bb2a03d4f46a)
+![walkthrough](https://github.com/user-attachments/assets/60024e1b-0993-4e9f-a936-0d283ea9bcfb)
 
 
 ## Getting Started
